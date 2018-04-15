@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="distanceItems">
+        <item>Kilometers</item>
+        <item>Meters</item>
+        <item>Miles</item>
+        <item>Feets</item>
+    </string-array>
+
+    <string-array name="weightItems">
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+    </string-array>
+
+    <string-array name="volumeItems">
+        <item>KM^3</item>
+        <item>M^3</item>
+        <item>L</item>
+        <item>mL</item>
+    </string-array>
+
+    <string-array name="temperatureItems">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+
+
+</resources>
